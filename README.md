@@ -7,3 +7,4 @@
 <a href="https://becoder.newpage.xyz"> BeCoder</a><br>
 <a href="https://besthack.newpage.xyz/"> BestHack</a><br>
 <a href="https://hackgenesis.newpage.xyz"> HackGenesis</a><br>
+<a href="https://adc.newpage.xyz/"> OPD-"web interface for access to the database of analog-to-digital converters"</a><br>
